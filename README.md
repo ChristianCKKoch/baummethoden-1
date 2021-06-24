@@ -25,7 +25,7 @@
 
 - Create a heroku account
 - Create a new app and save the name
-- Go to your Account Settings and save the API Key
+- Go to your Account Settings and save the API Key - in Heroku
 - Go to the secrets in the settings of your GitHub repository
 - Add the API Key as `HEROKU_API_KEY`
 - Add the app name as `HEROKU_APP_NAME`
